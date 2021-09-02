@@ -12,6 +12,11 @@ Data analysis is one of the most in-demand skill across all industries and an in
 
 Pandas is the wonderful open-source library that is the embodiment of those trends: based on the python programming language, pandas is the de facto data analysis library in the python data science community.
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> fc4840a414e9e4f8f3b9084f55f4446eb3d3e596
 ––––– Structure & Curriculum –––––
 
 Over more than 31 hours, we'll cover everything that pandas has to offer, from manipulating series and dataframes, to merging datasets, handling time series, aggregations, filtering, sorting and much more!
@@ -50,4 +55,21 @@ This is the ultimate course on one of the most-valuable skills today. I hope you
 
 See you inside!
 
+<<<<<<< HEAD
 What you’ll learn Learn everything there is to know about pandas - from absolute scratch! Gain a deep and hands-on understanding of pandas data structures. Transform, clean, filter, groupby, pivot, and otherwise manipulate a any dataset. Understand related computer science topics like random-number generators, binary operators, memory pointers, and more! Practice reading data from the web, pickles, Excel files right within pandas. Discover and learn hundreds of methods, attributes, and techniques to manipulate data in pandas and python. Are there any course requirements or prerequisites? A computer (Windows/Mac/Linux). That's all! No prior knowledge of python is required. No prior knowledge of pandas is required. Who this course is for: Anyone looking to deeply understand and master pandas Anyone interested in mastering data analysis with python
+=======
+What you’ll learn
+Learn everything there is to know about pandas - from absolute scratch!
+Gain a deep and hands-on understanding of pandas data structures.
+Transform, clean, filter, groupby, pivot, and otherwise manipulate a any dataset.
+Understand related computer science topics like random-number generators, binary operators, memory pointers, and more!
+Practice reading data from the web, pickles, Excel files right within pandas.
+Discover and learn hundreds of methods, attributes, and techniques to manipulate data in pandas and python.
+Are there any course requirements or prerequisites?
+A computer (Windows/Mac/Linux). That's all!
+No prior knowledge of python is required.
+No prior knowledge of pandas is required.
+Who this course is for:
+Anyone looking to deeply understand and master pandas
+Anyone interested in mastering data analysis with python
+>>>>>>> fc4840a414e9e4f8f3b9084f55f4446eb3d3e596
